@@ -1,0 +1,27 @@
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\California Instruments CSW5550 Software.exe.config
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\California Instruments CSW5550 Software.exe
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\California Instruments CSW5550 Software.pdb
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\LibUsbDotNet.dll
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.dropoutParams.resources
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.MainForm.resources
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.InitialParams.resources
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.testModeConfig.resources
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.Properties.Resources.resources
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.csproj.GenerateResource.Cache
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.exe
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.pdb
+C:\Users\cwatzkb\Documents\Visual Studio 2015\Projects\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.csprojResolveAssemblyReference.cache
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\California Instruments CSW5550 Software.exe.config
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.exe
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.pdb
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\California Instruments CSW5550 Software.exe
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\California Instruments CSW5550 Software.pdb
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\bin\x86\Debug\LibUsbDotNet.dll
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.csprojResolveAssemblyReference.cache
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.DropoutParams.resources
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.ConfigCOMM.resources
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.MainForm.resources
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.InitialParams.resources
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.testModeConfig.resources
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California_Instruments_CSW5550_Software.Properties.Resources.resources
+K:\ENG\Refrigeration\USER\Blake Watzke\California Instruments CSW5550 Software\California Instruments CSW5550 Software\obj\x86\Debug\California Instruments CSW5550 Software.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerialPortSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <port_name>COM3</port_name>
+  <baud_rate>9600</baud_rate>
+  <data_bits>8</data_bits>
+  <stop_bits>One</stop_bits>
+  <parity>None</parity>
+  <rts>false</rts>
+</SerialPortSettings>
